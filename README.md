@@ -1,5 +1,5 @@
 # WinoMTeus
-[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/amaiaimurillo/winomteus)
+[![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/HiTZ/winomteus)
 
 
 WinoMTeus is the Basque version of [WinoMT](https://github.com/gabrielStanovsky/mt_gender) that consists of 1,827 sentences. The aim of this adaptation is to evaluate how gender is assigned when translating gender-neutral occupations in Basque into gendered languages such as Spanish or French.
