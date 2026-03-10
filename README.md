@@ -13,7 +13,7 @@ The evaluation procedure involves:
 3. Comparing the distribution of translated occupations to real-world labour statistics.
 
 ## Citation
-If you use WinoMTeus in your work, please make sure to also cite the original WinoMT paper:
+If you use **WinoMTeus** in your work, please cite both the original **WinoMT** paper and our paper introducing the Basque benchmark:
 
 ```bibtex
 @misc{stanovsky2019evaluatinggenderbiasmachine,
@@ -24,6 +24,18 @@ If you use WinoMTeus in your work, please make sure to also cite the original Wi
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/1906.00591}, 
+}
+```
+
+```bibtex
+@misc{murillo2026genderbiasmtgenderless,
+      title={Gender Bias in MT for a Genderless Language: New Benchmarks for Basque}, 
+      author={Amaia Murillo and Olatz-Perez-de-Viñaspre and Naiara Perez},
+      year={2026},
+      eprint={2603.08153},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.08153}, 
 }
 ```
 
